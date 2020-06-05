@@ -79,5 +79,11 @@
     <string name="current_battery_health">當前電池健康度</string>
     <string name="current_battery_capacity">當前電池容量</string>
     <string name="designed_battery_capacity">電池設計容量</string>
+    <string name="battery_saver_refresh_rate_title">降低螢幕更新率</string>
+    <string name="battery_saver_refresh_rate_summary">在省電模式開啟時使用最多 60 Hz 螢幕更新率以減少電量消耗</string>
+    <string name="vibration_pattern_title">響鈴震動</string>
+    <string name="pattern_custom">自訂</string>
+    <string name="custom_vibration_pattern_title">自訂模式</string>
+    <string name="custom_vibration_pattern_summary">設定一個自訂震動模式</string>
 
 </resources>
