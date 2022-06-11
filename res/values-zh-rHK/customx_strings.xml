@@ -233,4 +233,6 @@
     <string name="adaptive_playback_timeout_5_min_summary">啟用（五分鍾）</string>
     <string name="adaptive_playback_timeout_10_min">10 分鐘</string>
     <string name="adaptive_playback_timeout_10_min_summary">啟用（十分鍾）</string>
+    <string name="laboratory_strict_standby_policy_title">嚴格的應用程式待機策略</string>
+    <string name="laboratory_strict_standby_policy_summary">這將對「電池用量」受限的應用程式啟用劃卡即停，並對其施加更加嚴格的應用程式待機限制。所有限制將在電源連接時也保持執行。</string>
 </resources>
