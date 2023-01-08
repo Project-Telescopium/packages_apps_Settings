@@ -192,6 +192,12 @@
             android:defaultValue="false"
             settings:controller="com.android.settings.custom.touch.HighTouchSensitivitySettingsPreferenceController" />
 
+         <com.android.settings.custom.preference.SecureSettingSwitchPreference
+            android:key="show_wifi_standard_icon"
+            android:title="@string/show_wifi_standard_icon_title"
+            android:summary="@string/show_wifi_standard_icon_summary"
+            android:defaultValue="false" />
+
         <!-- Double tap to sleep -->
         <com.android.settings.custom.preference.SystemSettingSwitchPreference
             android:key="double_tap_sleep_gesture"

@@ -95,5 +95,7 @@
     <string name="double_tap_ambient_wake_gestures_summary">双击唤醒时显示环境显示</string>
     <string name="pickup_ambient_wake_gestures_title">显示环境显示</string>
     <string name="pickup_ambient_wake_gestures_summary">拾起唤醒时显示环境显示</string>
+    <string name="show_wifi_standard_icon_title">显示 Wi-Fi 标准</string>
+    <string name="show_wifi_standard_icon_summary">在 Wi-Fi 信号指示器中显示 Wi-Fi 标准</string>
 
 </resources>
