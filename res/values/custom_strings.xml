@@ -140,4 +140,10 @@
     <string name="status_bar_lyric_summary">Show lyric in status bar (need app support)</string>
     <string name="status_bar_show_lyric_title">Enable status bar lyric</string>
 
+    <!-- Ambient Wake gesture -->
+    <string name="double_tap_ambient_wake_gestures_title">Show Ambient</string>
+    <string name="double_tap_ambient_wake_gestures_summary">Wake up the ambient display when double tap</string>
+    <string name="pickup_ambient_wake_gestures_title">Show Ambient</string>
+    <string name="pickup_ambient_wake_gestures_summary">Wake up ambient display when picked up</string>
+
 </resources>
